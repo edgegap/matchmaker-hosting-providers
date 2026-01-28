@@ -34,7 +34,7 @@ Replace with your Edgegap application's version name you want to use.
 ### PortName (line 36)
 
 ```csharp
-private const string PortName = "MyPort"; // TODO: Replace with actual port name
+private const string PortName = "gameport"; // TODO: Replace with actual port name
 ```
 
 Replace with your Edgegap application version's port name that will be used for players to connect.
