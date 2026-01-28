@@ -35,7 +35,7 @@ public class EdgegapAllocator(IGameApiClient gameApiClient, IEdgegapHttpClientFa
 	// Configuration - users should modify these constants for their setup
 	private const string ApplicationName = "MyApp"; // TODO: Replace with actual application name
 	private const string VersionName = "MyVersion"; // TODO: Replace with actual version name
-	private const string PortName = "MyPort"; // TODO: Replace with actual port name
+	private const string PortName = "gameport"; // TODO: Replace with actual port name
 
 	// Edgegap Constants
 	private const string EdgegapApiUrl = "https://api.edgegap.com";
